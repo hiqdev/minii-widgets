@@ -4,5 +4,5 @@ minii/widgets changelog
 ## Under development
 
 
-## Development started
+## Development started 2015-12-28
 
