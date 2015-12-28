@@ -1,0 +1,18 @@
+github:
+    name:           hiqdev/minii-widgets
+
+package:
+    type:           library
+    name:           widgets
+    namespace:      yii\widgets
+    src:            src
+    title:          minii widgets
+    keywords:       minii, widgets
+    description:    |
+        [minii](https://github.com/hiqdev/minii-core) is mini version of [Yii2](http://yiiframework.com/), supposed to be fully compatible.
+
+        This package provides yii\widgets.
+
+require:
+    hiqdev/hidev-php:   "*"
+    minii/hidev-vendor: "*"

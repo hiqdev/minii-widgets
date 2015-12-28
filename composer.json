@@ -1,0 +1,34 @@
+{
+    "name": "minii/widgets",
+    "type": "library",
+    "description": "minii widgets",
+    "keywords": [
+        "minii",
+        "widgets"
+    ],
+    "homepage": "https://github.com/hiqdev/minii-widgets",
+    "license": "BSD-3-Clause",
+    "support": {
+        "email": "support@hiqdev.com",
+        "source": "https://github.com/hiqdev/minii-widgets",
+        "issues": "https://github.com/hiqdev/minii-widgets/issues",
+        "wiki": "https://github.com/hiqdev/minii-widgets/wiki",
+        "forum": "http://forum.hiqdev.com/",
+        "ewidgets": "support@hiqdev.com"
+    },
+    "authors": [
+        {
+            "name": "Andrii Vasyliev",
+            "email": "sol@hiqdev.com",
+            "homepage": "http://hipanel.com/"
+        }
+    ],
+    "require": {
+        "minii/core": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "yii\\widgets\\": "src"
+        }
+    }
+}
